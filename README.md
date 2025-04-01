@@ -42,4 +42,4 @@ This project focuses on sentiment analysis using Recurrent Neural Networks (RNNs
 - Implement continuous monitoring and retraining.
 
 ## Contributors
-- Anirudh Gupta (055003)
+- Anirudh Gupta
